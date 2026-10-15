@@ -100,3 +100,9 @@ The dataset is too large for a typical laptop, so the notebook is designed for K
 1. Create a new Kaggle notebook and import `electricity_demand_forecasting.ipynb`.
 2. Add the [Smart meters in London](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london) dataset.
 3. Turn on Internet in the notebook settings (needed to install PySpark if missing), then select **Run All**.
+
+   ## License
+
+© 2026 Ghadah Almaawy. All rights reserved.
+
+This repository is shared publicly for viewing as part of my portfolio. Copying, redistributing, or submitting this code or analysis, in whole or in part, as your own work is not permitted without written permission.
