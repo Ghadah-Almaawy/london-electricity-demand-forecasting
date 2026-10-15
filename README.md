@@ -101,7 +101,7 @@ The dataset is too large for a typical laptop, so the notebook is designed for K
 2. Add the [Smart meters in London](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london) dataset.
 3. Turn on Internet in the notebook settings (needed to install PySpark if missing), then select **Run All**.
 
-   ## License
+ ## License
 
 © 2026 Ghadah Almaawy. All rights reserved.
 
